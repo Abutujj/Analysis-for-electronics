@@ -42,7 +42,7 @@ The following power bi features were incorporated
 
   ### Total profit by quater,month and day
 
-  ![]()
+  ![](https://github.com/Abutujj/Analysis-for-electronics/blob/main/profit%20by%20qauter%2Cmonth%26%20day.png)
 
   This report show the taotal profit by quater,month and day
 
