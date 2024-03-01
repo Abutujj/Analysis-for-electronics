@@ -19,9 +19,15 @@ but just dummy dataset for practice
 The following power bi features were incorporated
 - Bookmarking,
 - Dax,
+- Modelling
 - Quick measures,
 - Filter,
 - Tooltips
+
+  ## Modelling
+  ![](https://github.com/Abutujj/Analysis-for-electronics/blob/main/Screenshot%20(23).png)
+  The model is a star schema that consist of one fact table and four
+  dimensional table joined by one-to-relationship.
 
   ## Visualization:
   The report comprises of four pages
