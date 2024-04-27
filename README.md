@@ -36,7 +36,7 @@ The following power bi features were incorporated
   3. Sales by channelname and productname
   4. Sales by quater,month and day
 
-  You can interact with the report here[](https://app.powerbi.com/groups/f8ee5491-3113-486d-995d-9956b4330d8e/reports/094ca76a-824a-49e2-8e95-256ad1b8ee00/ReportSection?experience=power-bi)
+  You can interact with the report [here](https://app.powerbi.com/groups/f8ee5491-3113-486d-995d-9956b4330d8e/reports/094ca76a-824a-49e2-8e95-256ad1b8ee00/ReportSection?experience=power-bi)
 
   ## Analysis
 
